@@ -1,0 +1,7 @@
+"Reference","Value","Footprint","Qty","DNP","LCSC PN","LINK VENDOR"
+"C1","220nf","Capacitor_SMD:C_0805_2012Metric","1","","C163697","https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0805B224K500NT_C163697.html"
+"D1,D2,D3,D4","LED","LED_SMD:LED_0805_2012Metric","4","","C19171393","https://www.lcsc.com/product-detail/span-style-background-color-ff0-LED-span-Indication-Discrete_YONGYUTAI-YLED0805YG_C19171393.html"
+"L1","L","","1","","",""
+"R1,R2","0E","Resistor_SMD:R_0805_2012Metric","2","","C17477","https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F0000T5E_C17477.html"
+"R3,R4,R5,R6","220E","Resistor_SMD:R_0805_2012Metric","4","","C17557","https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F2200T5E_C17557.html"
+"U2","NT3H1101W0FHKH","NT3H1101W0FHKH:XQFN8_NT3H1101_NXP-L","1","","NT3H1101W0FHKH","https://www.digikey.com/en/products/detail/nxp-usa-inc/NT3H1101W0FHKH/5215136?s=N4IgTCBcDaIHIBUDMAJAjGgDGg6pgYigNIogC6AvkA"
